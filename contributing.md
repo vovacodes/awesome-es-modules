@@ -8,11 +8,12 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Can you stand behind the content?
+- Is your title clear?
+- Is this PR description as succinct as possible? 
+- Is the language in your addition approachable?
 
-Thank you for your suggestions!
+Thank you for your suggestions :)
 
 
 ## Updating your PR
