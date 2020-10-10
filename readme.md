@@ -19,12 +19,12 @@ Resources for learning about ES modules. Everything from technical deep dives to
 
 ## Using
 
-### Build Tools
+### Tools
 
 - [Snowpack](https://www.snowpack.dev/)
 
 
-## CDNs
+### CDNs
 
 - [jspm](https://jspm.org/)
 - [Skypack](https://www.skypack.dev/)
