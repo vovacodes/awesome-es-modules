@@ -14,7 +14,8 @@
 Resources for learning about ES modules. Everything from technical deep dives to approachable overviews.
 
 - [ES modules: A cartoon deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-- [ECMA 6 modules: The final syntax](https://2ality.com/2014/09/es6-modules-final.html)
+- [MDN Docs: JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [Impatient Programmers: Modules](https://exploringjs.com/impatient-js/ch_modules.html)
 
 
 ## Using
