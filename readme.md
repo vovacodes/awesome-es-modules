@@ -23,6 +23,7 @@ Resources for learning about ES modules. Everything from technical deep dives to
 ### Tools
 
 - [Snowpack](https://www.snowpack.dev/)
+- JSPM CLI (Coming soon)
 
 
 ### CDNs
